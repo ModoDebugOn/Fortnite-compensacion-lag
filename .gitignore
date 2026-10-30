@@ -1,0 +1,66 @@
+# Unity (basado en la plantilla oficial de GitHub)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports / builds
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# Addressables / Burst
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+*_BurstDebugInformation_DoNotShip/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Herramientas locales del autor: no forman parte de la demo.
+/[Aa]ssets/_Production/
+/[Aa]ssets/_Production.meta
+/[Pp]ackages/com.mododebugon.kitgrabacion/
+/[Pp]ackages/com.mododebugon.kitpersonajes/
+/[Pp]ackages/com.mododebugon.kitciudad/
+/[Pp]ackages/com.coplaydev.unity-mcp/
+.mcp.json
+# Unity lo regenera al abrir el proyecto.
+/[Pp]ackages/packages-lock.json

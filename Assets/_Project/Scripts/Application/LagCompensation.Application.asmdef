@@ -1,0 +1,14 @@
+{
+    "name": "LagCompensation.Application",
+    "rootNamespace": "LagCompensation.Application",
+    "references": ["LagCompensation.Domain"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
